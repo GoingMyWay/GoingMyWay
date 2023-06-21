@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-![](https://github-readme-stats.vercel.app/api?username=GoingMyWay)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoingMyWay&hide=jupyter%20notebook,html)
